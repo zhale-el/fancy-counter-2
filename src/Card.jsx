@@ -5,7 +5,7 @@ import Title from "./Title";
 
 const Card = () => {
   return (
-    <div>
+    <div className="card">
       <Title />
       <Count />
       <ResetButton />
